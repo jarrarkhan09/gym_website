@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import "../../styles/header.css";
 import logo from "../../assets/img/dumble.png";
-// import { useRef } from "react";
+import { useScroll } from "../UI/ScrollProvider";
 
 const nav__links = [
   {
@@ -54,6 +54,8 @@ const Header = () => {
     });
   };
 
+  const { scrollToContact } = useScroll();
+
   return (
     <header className="header" ref={headerRef}>
       <div className="container">
@@ -82,7 +84,9 @@ const Header = () => {
 
           {/* ============= nav right ============ */}
           <div className="nav__right">
-            <button className="register__btn">Register</button>
+            <button className="register__btn" onClick={scrollToContact}>
+              Register
+            </button>
             <span className="mobile__menu">
               <i class="ri-menu-line"></i>
             </span>

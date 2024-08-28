@@ -13,8 +13,10 @@ const Exercises = () => {
             Benefits of <span className="highlights">Exercise</span>
           </h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />
-            Suscipit neque alias at voluptates illum. delectus aut at natus.
+            Discover the powerful benefits of exercise: boost your energy,
+            <br />
+            improve mental health, build strength, flexibility, and promote
+            overall well-being.
           </p>
         </div>
 
@@ -31,8 +33,8 @@ const Exercises = () => {
             <div className="exercise__content">
               <h4>Healthy Life</h4>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore
-                sunt voluptatibus nostrum, natus dolorum error!
+                Embrace a healthy life with regular exercise. Enhance your
+                immune system, reduce disease risks, and enjoy active living.
               </p>
             </div>
           </div>
@@ -48,8 +50,8 @@ const Exercises = () => {
             <div className="exercise__content">
               <h4>Increased Flexibility</h4>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore
-                sunt voluptatibus nostrum, natus dolorum error!
+                Improve your range of motion, prevent injuries, and enhance
+                overall mobility with increased flexibility through exercise.
               </p>
             </div>
           </div>
@@ -65,8 +67,8 @@ const Exercises = () => {
             <div className="exercise__content">
               <h4>Reducing Blood Pressure</h4>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore
-                sunt voluptatibus nostrum, natus dolorum error!
+                Exercise helps lower blood pressure, improving heart health,
+                reducing stress, and enhancing overall cardiovascular wellness.
               </p>
             </div>
           </div>

@@ -10,8 +10,8 @@ const Pricing = () => {
             Gym <span className="highlights">Pricing</span> Plan
           </h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. <br />
-            Iure, veniam accusantium. Voluptatem rerum, quidem
+            Explore our flexible gym pricing plans to find the perfect <br />
+            fit for your fitness goals and budget. Start today!
           </p>
         </div>
 
@@ -36,26 +36,33 @@ const Pricing = () => {
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Unlimited access to the gym
+                  Access to All Gym Equipment
                 </li>
                 <li>
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Customer Support
+                  Standard Group Fitness Classes
                 </li>
                 <li>
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Personal trainer
+                  Flexible Gym Hours
                 </li>
                 <li>
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Standard options
+                  Free Fitness Assessment
                 </li>
+                <li>
+                  <span>
+                    <i class="ri-checkbox-blank-circle-fill"></i>
+                  </span>
+                  Basic Locker Room Access
+                </li>
+
                 <li>
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
@@ -86,31 +93,37 @@ const Pricing = () => {
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Unlimited access to The gym
+                  All Regular Member Benefits
                 </li>
                 <li>
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Customer Support
+                  Unlimited Group Fitness Classes
                 </li>
                 <li>
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Personal trainer
+                  Extended Gym Hours Access
                 </li>
                 <li>
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Standard options
+                  Free Towel Service
                 </li>
                 <li>
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  5 classes per week
+                  Free Personal Training Session
+                </li>
+                <li>
+                  <span>
+                    <i class="ri-checkbox-blank-circle-fill"></i>
+                  </span>
+                  Priority Booking for Classes
                 </li>
               </ul>
 
@@ -135,31 +148,37 @@ const Pricing = () => {
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Unlimited access to the gym
+                  All Premium Member Benefits
                 </li>
                 <li>
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Customer Support
+                  Unlimited Personal Training
                 </li>
                 <li>
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Personal trainer
+                  Access to Exclusive Classes
                 </li>
                 <li>
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Standard options
+                  Complimentary Massage Therapy
                 </li>
                 <li>
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  5 classes per week
+                  Private Locker Room Access
+                </li>
+                <li>
+                  <span>
+                    <i class="ri-checkbox-blank-circle-fill"></i>
+                  </span>
+                  Customer Support and Services
                 </li>
               </ul>
 

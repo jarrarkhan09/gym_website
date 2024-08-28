@@ -17,8 +17,8 @@ const Footer = () => {
               <h2>FlexPro</h2>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
-              voluptates quod labore similique?
+              "Fitbody – Connect with us for support, follow our updates, and
+              find fitness tips. Let’s reach your goals together!
             </p>
           </div>
           <div className="footer__box">

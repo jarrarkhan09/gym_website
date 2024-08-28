@@ -16,7 +16,7 @@ export default function Testimonial() {
     <>
       <section>
         <div className="container sliders">
-					<h2 className="section__title">Testimonials</h2>
+          <h2 className="section__title">Testimonials</h2>
           <Swiper
             effect={"cards"}
             grabCursor={true}
@@ -30,10 +30,9 @@ export default function Testimonial() {
                 </div>
                 <h4>lary page</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
-                  voluptatum placeat vero non suscipit dolorem, magnam dolores,
-                  sapiente numquam modi quos provident perspiciatis. Omnis
-                  dolore ex, cumque mollitia aliquam in.
+                  Fitbody transformed my fitness journey with personalized
+                  workouts and supportive trainers. I've never felt more
+                  motivated or healthier!
                 </p>
               </div>
             </SwiperSlide>
@@ -44,10 +43,9 @@ export default function Testimonial() {
                 </div>
                 <h4>lary drag</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
-                  voluptatum placeat vero non suscipit dolorem, magnam dolores,
-                  sapiente numquam modi quos provident perspiciatis. Omnis
-                  dolore ex, cumque mollitia aliquam in.
+                  The community and expert guidance at Fitbody have been
+                  incredible. I've achieved my goals and surpassed my
+                  expectations
                 </p>
               </div>
             </SwiperSlide>
@@ -58,10 +56,8 @@ export default function Testimonial() {
                 </div>
                 <h4>gigi hadid</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
-                  voluptatum placeat vero non suscipit dolorem, magnam dolores,
-                  sapiente numquam modi quos provident perspiciatis. Omnis
-                  dolore ex, cumque mollitia aliquam in.
+                  Joining Fitbody was the best decision. The flexibility and
+                  diverse classes have made fitness enjoyable and effective.
                 </p>
               </div>
             </SwiperSlide>
@@ -73,10 +69,9 @@ export default function Testimonial() {
                 </div>
                 <h4>lary page</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
-                  voluptatum placeat vero non suscipit dolorem, magnam dolores,
-                  sapiente numquam modi quos provident perspiciatis. Omnis
-                  dolore ex, cumque mollitia aliquam in.
+                  Fitbody's personalized approach and excellent facilities have
+                  helped me improve my health and build confidence. Highly
+                  recommend!
                 </p>
               </div>
             </SwiperSlide>

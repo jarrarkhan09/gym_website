@@ -24,10 +24,10 @@ const Start = () => {
               Ready to make a <span className="highlights">change?</span>
             </h2>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia
-              voluptatum repellendus, molestiae deleniti quia, nesciunt ex
-              corrupti error aliquam vero quam possimus dolore neque nemo saepe
-              magni ratione! Hic, voluptas.
+              Ready to make a change? Take the first step towards a healthier,
+              stronger you with Fitbody. Our tailored fitness programs, expert
+              guidance, and supportive community will help you reach your goals
+              and embrace a lifestyle of wellness and vitality.
             </p>
             <button className="register__btn">Get Started</button>
           </div>

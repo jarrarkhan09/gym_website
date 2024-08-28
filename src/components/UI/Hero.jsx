@@ -19,9 +19,9 @@ const Hero = () => {
               <span className="highlights"> Healthy</span> Lifestyle
             </h2>
             <p data-aos="fade-up" data-aos-delay="100" data-aos-duration="1800">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br />
-              Voluptates nisi amet exercitationem sint eos cum autem at <br />{" "}
-              vero iure. Sapiente.
+              Achieve your fitness goals with Fitbody. Personalized workouts, <br />
+              expert guidance, and a supportive community designed to <br />transform 
+              your health and fitness journey.
             </p>
 
             <div
