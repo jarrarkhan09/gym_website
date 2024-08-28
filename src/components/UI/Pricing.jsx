@@ -86,7 +86,7 @@ const Pricing = () => {
                   <span>
                     <i class="ri-checkbox-blank-circle-fill"></i>
                   </span>
-                  Unlimited access to the gym
+                  Unlimited access to The gym
                 </li>
                 <li>
                   <span>
