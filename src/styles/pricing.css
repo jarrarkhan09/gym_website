@@ -88,3 +88,21 @@
 .pricing__item-02 .services ul li span i {
   color: var(--primary-color);
 }
+
+
+@media (max-width: 767px) {
+
+    .pricing__wrapper{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      row-gap: 6rem;
+    }
+
+  }
+
+ 
+
+  
+  

@@ -29,9 +29,12 @@
 
 body {
   font-family: var(--font-name);
+  width: 100%;
+  position: relative;
 }
 html {
   scroll-behavior: smooth;
+  width: 100%;
 }
 
 section {

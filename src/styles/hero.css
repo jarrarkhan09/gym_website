@@ -4,6 +4,9 @@
   padding-top: 50px;
 }
 
+.hero__content{
+  width: 50%;
+}
 .hero__content .section__title {
   font-size: 3rem;
   padding-right: 60px;
@@ -175,4 +178,30 @@ h6 {
 
 .dumble__icon img {
   width: 100%;
+}
+
+
+
+@media (max-width: 767px){
+ .hero__wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+ }
+
+ .hero__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  text-align: center;
+ }
+  
+
+}
+@media  (max-width: 575px){
+
 }

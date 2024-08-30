@@ -24,6 +24,7 @@ const nav__links = [
 
 const Header = () => {
   const headerRef = useRef(null);
+  const menuRef = useRef(null);
 
   const headerFunc = () => {
     if (
@@ -55,6 +56,7 @@ const Header = () => {
   };
 
   const { scrollToContact } = useScroll();
+  const toggleMenu = () => menuRef.current.classList.toggle('show__menu');
 
   return (
     <header className="header" ref={headerRef}>
@@ -70,7 +72,7 @@ const Header = () => {
 
           {/* ========== navigation menu =========== */}
 
-          <div className="navigation">
+          <div className="navigation" ref={menuRef} onClick={toggleMenu} >
             <ul className="menu">
               {nav__links.map((item) => (
                 <li className="nav__item">
@@ -87,7 +89,7 @@ const Header = () => {
             <button className="register__btn" onClick={scrollToContact}>
               Register
             </button>
-            <span className="mobile__menu">
+            <span onClick={toggleMenu} className="mobile__menu">
               <i class="ri-menu-line"></i>
             </span>
           </div>

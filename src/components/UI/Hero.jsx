@@ -19,8 +19,8 @@ const Hero = () => {
               <span className="highlights"> Healthy</span> Lifestyle
             </h2>
             <p data-aos="fade-up" data-aos-delay="100" data-aos-duration="1800">
-              Achieve your fitness goals with Fitbody. Personalized workouts, <br />
-              expert guidance, and a supportive community designed to <br />transform 
+              Achieve your fitness goals with Fitbody. Personalized workouts, 
+              expert guidance, and a supportive community designed to transform 
               your health and fitness journey.
             </p>
 

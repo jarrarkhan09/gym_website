@@ -1,5 +1,7 @@
 .sliders {
     width: 600px;
+    margin: auto;
+    
 }
 
 .swiper-slide {
@@ -53,3 +55,10 @@
     margin-bottom: 50px;
     text-align: center;
 }
+
+@media (max-width: 767px) {
+    .container{
+        margin-bottom: 5rem;
+    }
+
+  }
