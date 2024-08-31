@@ -62,3 +62,22 @@
     }
 
   }
+
+@media (max-width: 575px) {
+    .container{
+        margin-bottom: 5rem;
+    }
+
+    .sliders {
+        width: 400px;
+        margin: auto;
+        
+    }
+    .slide__item{
+        width: 80%;
+    }
+    .slide__item p {
+        color: var(--heading-color);
+        line-height: 20px;
+    }
+  }

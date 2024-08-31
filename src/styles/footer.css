@@ -102,3 +102,20 @@
   }
   
 }
+@media (max-width:575px) {
+
+
+  
+  .footer__box {
+    text-align: center;
+    border: none;
+    padding: 1rem;
+    margin: 1rem;
+    width: 90%;
+  }
+  .footer {
+    padding-bottom: 20px;
+  }
+
+  
+}

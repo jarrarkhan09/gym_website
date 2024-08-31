@@ -31,8 +31,8 @@ const ContactUs = () => {
         <form
           onSubmit={handleSubmit}
           className="contactus-form"
-          data-aos="zoom-in"
-          data-aos-duration="1500"
+          // data-aos="zoom-in"
+          // data-aos-duration="1500"
         >
           <label htmlFor="name">Name</label>
           <input

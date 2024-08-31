@@ -137,4 +137,18 @@
   .mobile__menu {
     display: block;
   }
+
+  
+}
+
+@media (max-width: 575px) {
+  html {
+    font-size: 45%;
+  }
+  .container{
+    width: 100%;
+  }
+
+
+
 }

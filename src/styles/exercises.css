@@ -71,3 +71,29 @@
     border-radius: 2rem;
   }
 }
+
+@media (max-width: 575px) {
+  .exercise__top h2 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+  .exercise__wrapper{
+    padding-left:  20px ;
+    padding-right: 20px ;
+  }
+
+  .exercise__item {
+    width: 90%;
+    /* margin: 2rem; */
+    background: rgb(99, 99, 189);
+    padding: 2rem;
+    border-radius: 2rem;
+  }
+  .exercise__top p {
+    
+    font-size: 1rem;
+    margin-top: 2rem;
+    line-height: 20px;
+}
+}
